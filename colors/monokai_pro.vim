@@ -19,7 +19,7 @@ hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white "guibg=darkred guifg=wh
 hi ColorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#423f42 gui=NONE
 hi MatchParen ctermfg=204 ctermbg=NONE cterm=underline guifg=#ff6188 guibg=NONE gui=underline
 hi StatusLine guibg=NONE guifg=#727072 ctermbg=NONE gui=italic,underline
-hi StatusLineNC guibg=NONE guifg=#727072  ctermbg=NONE gui=italic
+hi StatusLineNC guibg=NONE guifg=#727072  ctermbg=NONE gui=underline
 
 hi Pmenu ctermfg=150 ctermbg=NONE cterm=NONE guifg=#a9dc76 guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#403e41 gui=NONE
